@@ -1,0 +1,13 @@
+{
+  "name": "Bot Minecraft",
+  "description": "Bouge ton cube",
+  "version": "0.0.0",
+  "main": "Bot Minecraft.js",
+  "scripts": {
+    "start": "node Bot Minecraft.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
