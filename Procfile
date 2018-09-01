@@ -1,1 +1,1 @@
-worker: Bot Minecraft.js
+worker: node Bot Minecraft.js
